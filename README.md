@@ -66,4 +66,4 @@ Provide detailed instructions on how users can use your tool effectively. Includ
 
 `sub-sniffer` is distributed under the MIT License. See [LICENSE](./LICENSE.md) for more information.
 
-`sub-sniffer` is made with 🖤 by AMMAR ABID [https://instagram/ch.ammar_abid] .
+`sub-sniffer` is made with 🖤 by AMMAR ABID [https://instagram.com/ch.ammar_abid] .
